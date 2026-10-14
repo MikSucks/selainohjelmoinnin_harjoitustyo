@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Herääminen",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Aamupala",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Pukeutuminen",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Koulu tai työt",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Lounas",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Liikuntaa tai ulkoilua",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Päivällinen",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Nukkumaan valmistautuminen",
+    "completed": false
+  }
+]
